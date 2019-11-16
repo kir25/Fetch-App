@@ -1,0 +1,24 @@
+
+.button-inline {
+    border-radius: 5px;
+    border: 2px solid gray;
+    background: transparent;
+    padding: 0 5px;
+    font-size: 2em;
+    font-family: cursive;
+    cursor: pointer;
+}
+
+.btn {
+    font-size: inherit;
+    margin-left: 10px;
+}
+
+.btn-bott {
+    display: block;
+    margin: 15px auto 0px;
+    font-weight: bold;
+}
+
+
+
