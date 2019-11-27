@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Fetch-App/static/css/main.2f7ce2ec.chunk.css"
   },
   {
-    "revision": "db1439cf03cd7f26f41417aa90636d32",
+    "revision": "61bfa26b9e51e03c3fc72bf98189f249",
     "url": "/Fetch-App/index.html"
   }
 ];
